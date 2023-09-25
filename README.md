@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Jonah, and I am a graduate of BSc Maths and Physics from the University of St. Andrews, and of MSc Weather and Climate Science from the University of Exeter. Through my time at university I learned to code using Python, R, and briefly Wolfram Mathematica.
 <!--
 **JFlewitt/JFlewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
