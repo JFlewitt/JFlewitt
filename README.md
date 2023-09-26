@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-My name is Jonah, and I am a graduate of BSc Maths and Physics from the University of St. Andrews, and of MSc Weather and Climate Science from the University of Exeter. Through my time at university I learned to code using Python, R, and briefly Wolfram Mathematica. For my postgraduate dissertation I heavily utilised python scripts to run atmospheric simulations and analyse the data. I have used R and Python scripts to complete assignments throughout my academic career. 
+My name is Jonah, and I am a graduate of BSc Maths and Physics from the University of St. Andrews, and of MSc Weather and Climate Science from the University of Exeter. Through my time at university I learned to code using Python, R, and briefly Wolfram Mathematica. For my postgraduate dissertation I heavily utilised python scripts to run atmospheric simulations and analyse the data. I have used R and Python scripts to complete assignments throughout my academic career, ranging from complex atmospheric simulations, to modelling numerical methods for solving mathematical equations, and to analysing large datasets.
+
+I am looking for a full-time oppertunity to develop and apply my coding skills. Please reach out to me!
+
+Reach me via email: jonahflewitt@googlemail.com,
+or via LinkedIn: www.linkedin.com/in/jonah-flewitt-013a56292
 <!--
 **JFlewitt/JFlewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
